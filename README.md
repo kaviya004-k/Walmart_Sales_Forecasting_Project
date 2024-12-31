@@ -1,6 +1,4 @@
-# projects
-
-**Portfolio: Walmart Sales Forecasting Project**
+# Walmart Sales Forecasting Project
 
 ---
 
